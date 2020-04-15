@@ -1,0 +1,293 @@
+* {
+  borde: 0.1px solid red;
+}
+bo {
+  font-family: 'Montserrat', sans-serif;
+}
+.project {
+  width: 85%;
+  margin: 0 auto;
+  height: 1100px;
+}
+.line {
+  width: 100%;
+}
+.line .h_ul {
+  width: fit-content;
+  height: fit-content;
+  list-style-type: none;
+  display: inline-flex;
+  float: right;
+}
+.line .h_ul li {
+  margin-right: 50px;
+  font-family: 'Montserrat', sans-serif;
+}
+.line .h_ul li:hover {
+  color: #020202;
+  font-weight: bold ;
+  cursor: pointer;
+}
+.line .buttons ul {
+  width: fit-content;
+  height: fit-content;
+  list-style-type: none;
+  display: inline-flex;
+  font-family: 'Montserrat', sans-serif;
+}
+.line .buttons {
+  width: fit-content;
+  height: fit-content;
+  float: right;
+  margin-top: 20px;
+  list-style-type: none;
+}
+.line .logo {
+  width: fit-content;
+  height: fit-content;
+  float: left;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 30px;
+}
+.line .menu {
+  display: inline-flex;
+  height: fit-content;
+  margin-top: 25px;
+  margin-left: 100px;
+}
+.line .f1 {
+  width: fit-content;
+  height: fit-content;
+  cursor: pointer;
+  padding: 3px 3px ;
+}
+.line .q2 {
+  border: 0px solid #000000;
+  background-color: #ffffff;
+  padding: 10px 30px;
+  font-weight: normal;
+  border-radius: 150px;
+  color: #000000;
+}
+.line .q1 {
+  border: 0px solid #000000;
+  background-color: #000000;
+  padding: 10px 15px;
+  font-weight: normal;
+  border-radius: 150px;
+  color: #ffffff;
+}
+.line .q3 {
+  border: 0px solid #000000;
+  background-color: #000000;
+  padding: 10px 20px;
+  font-weight: normal;
+  border-radius: 150px;
+  color: #ffffff;
+}
+.line .as button {
+  cursor: pointer;
+}
+.main {
+  background-color: #ffdedd;
+  border-radius: 30px;
+  width: 100%;
+  height: 500px;
+  position: relative;
+  margin-top: 50px;
+}
+.main .l {
+  width: fit-content;
+  height: fit-content;
+  position: absolute;
+  margin-top: 120px;
+  margin-left: 100px;
+}
+.main .l .big {
+  font-size: 50px;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+}
+.main .l .text1 {
+  color: #000000;
+  font-family: 'Montserrat', sans-serif;
+}
+.main .l .t12 {
+  display: inline-flex;
+}
+.main .l .t12 .last {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 16px;
+  font-weight: normal;
+  margin-top: 5px;
+  margin-right: 20px;
+}
+.main .r {
+  width: fit-content;
+  height: fit-content;
+  float: right;
+  margin-right: 30px;
+}
+.main .r .v {
+  border-radius: 20px;
+}
+.pl {
+  width: 100%;
+  height: fit-content;
+  margin-top: 60px;
+  display: inline-flex;
+}
+.pl .p {
+  float: left;
+}
+.pl .p a {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 30px;
+  font-weight: bold;
+}
+.pl .search {
+  display: inline-flex;
+  margin-left: 200px;
+  width: fit-content;
+  height: fit-content;
+  background-color: #f5f5f5;
+  border-radius: 10px;
+}
+.pl .search a {
+  float: left;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-right: 280px;
+  margin-top: 6px;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 13px;
+  color: #979797;
+}
+.pl .search img {
+  float: left;
+}
+.pl .new {
+  width: fit-content;
+  height: fit-content;
+  display: inline-flex;
+  background-color: black;
+  border-radius: 100px;
+  padding-top: 9px;
+  padding-bottom: 10px;
+  margin-left: 240px;
+}
+.pl .new a {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 400    ;
+  color: white;
+  font-size: 12px;
+  margin-top: 2px;
+}
+.pl .new .awe {
+  padding-left: 20px;
+  font-weight: 100;
+  margin-right: 5px;
+}
+.pl .new .qw {
+  padding-right: 20px;
+  margin-left: 10px;
+  margin-top: 5px;
+}
+.last1 {
+  display: inline-flex;
+  width: 100%;
+  font-family: 'Montserrat', sans-serif;
+  margin-top: 60px;
+}
+.last1 .left2 {
+  width: 367px;
+  height: 290px;
+  margin-right: 100px;
+  background-color: #ffffff;
+}
+.last1 .left2 .ve {
+  width: 100%;
+  height: 24px;
+}
+.last1 .left2 .ve .do {
+  float: left;
+  font-size: 19px;
+  font-weight: bold;
+}
+.last1 .left2 .ve .red {
+  float: right;
+  font-size: 12px ;
+}
+.last1 .left2 .dc div {
+  float: right;
+}
+.last1 .left2 .dc a {
+  float: left;
+}
+.last1 .left2 .dc .dfd {
+  width: 20px;
+  height: 20px;
+  background-color: #e0e0e0;
+  border-radius: 5px;
+}
+.last1 .left2 .dc .filter {
+  width: 20px;
+  height: 20px;
+  background-color: #000000;
+  border-radius: 5px;
+}
+.last1 .lleft2ef .dc .ve {
+  font-size: 19px;
+  font-weight: bold;
+}
+.last1 .left2 .dc .ve .img {
+  float: right;
+}
+.last1 .left2 .dc .ga {
+  margin-left: 3px;
+}
+.last1 .rig {
+  width: 100%;
+  height: 290px;
+}
+.last1 .rig .imog {
+  position: absolute;
+}
+.last1 .rig .we {
+  width: 925px;
+}
+.last1 .rig .ws {
+  display: inline-flex;
+}
+.last1 .rig .op {
+  width: fit-content;
+  height: fit-content;
+  float: right;
+  position: absolute;
+  margin-left: 650px;
+}
+.last1 .rig .cu {
+  width: 270px;
+  margin-top: 160px;
+}
+.last1 .rig .cu a {
+  font-size: 15px;
+}
+.last1 .rig .cu .zaq {
+  width: 100%;
+}
+.last1 .rig .cu .zaq .fv {
+  float: left;
+  font-size: 12px;
+}
+.last1 .rig .cu .zaq .fc {
+  float: right;
+  font-size: 11px;
+  color: #8f8f8f;
+}
+.last1 .rig .cu .zaq img {
+  margin-top: 2px;
+}
+.last1 .rig .ws :first-child {
+  margin-right: 55px;
+}
